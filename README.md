@@ -86,7 +86,10 @@ $routes->get('artikel/delete/(:any)', 'Artikel::delete/$1');
 # Tampilan Aplikasi
 
 *Halaman Publik*
+<img width="1919" height="1079" alt="Cuplikan layar 2026-04-02 130247" src="https://github.com/user-attachments/assets/099a4d82-7a73-44a4-97eb-c77fe2141958" />
+
 
 *Halaman Detail*
 
 *Halaman Admin (Dashboard)*
+<img width="1919" height="1074" alt="Cuplikan layar 2026-04-02 130220" src="https://github.com/user-attachments/assets/1917063c-da0d-4d03-8ba6-4f076da93b82" />
